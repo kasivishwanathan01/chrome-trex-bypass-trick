@@ -24,4 +24,4 @@ The T-Rex will **run forever**, even if it hits obstacles like cacti or birds.
 
 ```js
 Runner.instance_.gameOver = () => {}
-![t-rex 9999 score](https://github.com/user-attachments/assets/347e3cb1-cadb-4535-9201-5d726d1791b3)
+
